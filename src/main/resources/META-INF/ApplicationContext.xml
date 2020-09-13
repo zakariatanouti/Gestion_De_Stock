@@ -47,8 +47,6 @@
 
 	<!-- <bean id="daoXXX" class="package.path.XXXDaoImpl" /> <bean id="metierXXX" 
 		class="package.path.MetierXXXImpl"> <property name="dao" ref="daoXXX"></property> 
-		</bean> --><!-- <bean id="daoXXX" class="package.path.XXXDaoImpl" /> <bean id="metierXXX" 
-		class="package.path.MetierXXXImpl"> <property name="dao" ref="daoXXX"></property> 
 		</bean> -->
 
 </beans>
